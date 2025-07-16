@@ -18,7 +18,9 @@ Using the data set I will be analysing , I will be gaining insight into the foll
 * Average price by property type
 * Which property type cost more based on location?
 * Monthly Revenue trend
-     
-*
-* 
-* }
+
+---
+DATA MODELLING
+---
+The dataset consist of 3 tables
+![](
