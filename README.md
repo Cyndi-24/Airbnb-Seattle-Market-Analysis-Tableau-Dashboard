@@ -25,3 +25,7 @@ DATA MODELLING
 The dataset consist of 3 tables
 
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/data_modelling.png)
+
+---
+SKILLS DEMONSTRATED
+---
