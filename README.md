@@ -63,7 +63,9 @@ This analysis has one dashboard
 
 ---
 # What is the monthly revenue trend? 
-![](
+![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/monthly_revenue.png)
+
+---
 
 
 
