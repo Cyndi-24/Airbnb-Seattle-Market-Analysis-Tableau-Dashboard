@@ -35,7 +35,7 @@ SKILLS DEMONSTRATED
     were used to communicate data insights through visual representation
   - Creation of interactive charts such as slicers and filters which further enhances visual representation 
   - Ability to select data ranges relevant for each chart creation
-* Use of calculated fields such as sum ,average to determine the KPi
+* Use of calculated fields such as sum ,average and count to determine the KPi
 
 ---
 ANALYSIS AND VISUALIZATION
@@ -44,12 +44,16 @@ This analysis has one dashboard
 
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/AirBNB_Analysis.png)
 
-* Key Performance Indicators
+# KEY PERFORMANCE INDICATORS
   
-  This was depicted usng,total listing.total bookings and average booking price
+  This was depicted usin total listing,total bookings and average booking price
   
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/KPI.png)
 
+---
+# Which property type generated the most revenue?
+
+![](
 
 
 
