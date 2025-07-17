@@ -53,9 +53,12 @@ This analysis has one dashboard
 ---
 # Which property type generated the most revenue?
 
+![]( https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/revenue_by_property_type.png)
+
+---
+# What is the average price by property type?
+
 ![](
-
-
 
 
 
