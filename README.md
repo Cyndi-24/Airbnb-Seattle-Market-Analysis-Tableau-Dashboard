@@ -29,5 +29,16 @@ The dataset consist of 3 tables
 ---
 SKILLS DEMONSTRATED
 ---
-* Data cleaning and Importation; The data was cleaned via removal of duplicates and blanks,standardization of dates and currency,filling of missing values necessary for the analyis,wrong spelling were corrrected across the data set using find and replace, afterwards the data set was imported to Tableau.
-* 
+* Data cleaning and Importation; The data was cleaned via removal of duplicates and blanks,standardization of dates and currency,filling of missing values necessary for the    analyis,wrong spelling were corrrected across the data set using find and replace, afterwards the data set was imported to Tableau.
+* Chart Creation
+  - knowing which chart would better represent the dataset is a very crucial skill,different charts ranging from line chart,bar cart,maps
+    were used to communicate data insights through visual representation
+  - Creation of interactive charts such as slicers and filters which further enhances visual representation 
+  - Ability to select data ranges relevant for each chart creation
+* Use of calculated fields such as sum ,average to determine the KPi
+
+---
+ANALYSIS AND VISUALIZATION
+---
+This analysis has one dashboard
+![](
