@@ -29,3 +29,5 @@ The dataset consist of 3 tables
 ---
 SKILLS DEMONSTRATED
 ---
+* Data cleaning and Importation; The data was cleaned via removal of duplicates and blanks,standardization of dates and currency,filling of missing values necessary for the analyis,wrong spelling were corrrected across the data set using find and replace, afterwards the data set was imported to Tableau.
+* 
