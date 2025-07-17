@@ -47,7 +47,7 @@ This analysis has one dashboard
 * Key Performance Indicators
   This was depicted usng,total listing.total bookings and average booking price
   
-![](
+![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/KPI.png)
 
 
 
