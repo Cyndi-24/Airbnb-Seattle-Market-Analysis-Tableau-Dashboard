@@ -47,6 +47,7 @@ This analysis has one dashboard
 # KEY PERFORMANCE INDICATORS
   
   This was depicted usin total listing,total bookings and average booking price
+
   
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/KPI.png)
 
@@ -58,6 +59,10 @@ This analysis has one dashboard
 ---
 # What is the average price by property type?
 
+![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/Average_price_by_property.png)
+
+---
+# What is the monthly revenue trend? 
 ![](
 
 
