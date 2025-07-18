@@ -46,7 +46,7 @@ This analysis has one dashboard
 
 # KEY PERFORMANCE INDICATORS
   
-  This was depicted usin total listing,total bookings and average booking price
+  This was depicted using total listing,total bookings and average booking price
 
   
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/KPI.png)
@@ -56,17 +56,26 @@ This analysis has one dashboard
 
 ![]( https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/revenue_by_property_type.png)
 
+
+INSIGHT: House generated the most revenue with a total of  $50,451,652
+
 ---
 # What is the average price by property type?
 
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/Average_price_by_property.png)
 
+INSIGHT: Based on average price by property type boats are the most expensive.
+
 ---
 # What is the monthly revenue trend? 
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/monthly_revenue.png)
 
+INSIGHT: The revenue increases down the year and peaks at the end of the year.
+
 ---
 
+# Which location does AIRBNB cost more?
+![](
 
 
 
