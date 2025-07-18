@@ -31,7 +31,7 @@ SKILLS DEMONSTRATED
 ---
 * Data cleaning and Importation; The data was cleaned via removal of duplicates and blanks,standardization of dates and currency,filling of missing values necessary for the    analyis,wrong spelling were corrrected across the data set using find and replace, afterwards the data set was imported to Tableau.
 * Chart Creation
-  - knowing which chart would better represent the dataset is a very crucial skill,different charts ranging from line chart,bar cart,maps
+  - knowing which chart would better represent the dataset is a very crucial skill,different charts ranging from line      chart,bar cart,maps
     were used to communicate data insights through visual representation
   - Creation of interactive charts such as slicers and filters which further enhances visual representation 
   - Ability to select data ranges relevant for each chart creation
@@ -83,10 +83,11 @@ INSIGHT: AirBNB cost more at SoDo|Industrial District with an average price of $
 RECOMMENDAION AND CONCLUSION
 ---
 
-recomm
-trict
-
-
+* There are **3159** listings in Seattle and  over **1,393,570** total bookings in the year 2016.To further increase these      bookings the following can be done: 
+ - Prompt response to enquires and provision of clear and understable instructions as regards bookings and amenities
+ -  Use of dynamic pricing which encourages adjustment of prices based on demands,events and sasonality
+ - Setting up high quality photos,detailed and accurate description on the website can also help to attract customers and aid    them in making better decision 
+ - Inspections can be carried out on the various properties  from time to time to ensure saftey,functional amenities and         proper management of facilities.
 
 
 
