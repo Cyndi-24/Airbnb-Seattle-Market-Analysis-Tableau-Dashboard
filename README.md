@@ -57,7 +57,7 @@ This analysis has one dashboard
 ![]( https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/revenue_by_property_type.png)
 
 
-INSIGHT: House generated the most revenue with a total of  $50,451,652
+INSIGHT: House generated the most revenue 
 
 ---
 # What is the average price by property type?
@@ -75,10 +75,16 @@ INSIGHT: The revenue increases down the year and peaks at the end of the year.
 ---
 
 # Which location does AIRBNB cost more?
-![](
+![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/price_by_location.png)
 
+INSIGHT: AirBNB cost more at SoDo|Industrial District with an average price of $192 and a total of 4 listings followed by Magnolia
 
+---
+RECOMMENDAION AND CONCLUSION
+---
 
+recomm
+trict
 
 
 
