@@ -86,9 +86,13 @@ RECOMMENDAION AND CONCLUSION
 * There are **3159** listings in Seattle and  over **1,393,570** total bookings in the year 2016.To further increase these      bookings the following can be done: 
  - Prompt response to enquires and provision of clear and understable instructions as regards bookings and amenities
  -  Use of dynamic pricing which encourages adjustment of prices based on demands,events and sasonality
- - Setting up high quality photos,detailed and accurate description on the website can also help to attract customers and aid    them in making better decision 
- - Inspections can be carried out on the various properties  from time to time to ensure saftey,functional amenities and         proper management of facilities.
+ - Setting up high quality photos,detailed and accurate description on the website can also help to attract customers and aid them in making better decision 
+ - Inspections can be carried out on the various properties  from time to time to ensure saftey,functional amenities and proper management of facilities.
 
-
+*  Based on property type **House** and **Apartments** are the most profitable thus further investments can be made on them to generate more revenue.
+  
+*  Looking at the monthly revenue trend,the revenue gradually increases progressively as the year  and begins to peak from August down the year at December this can be    likely be due to the holiday season , thus adequate preparation needs to be made to ensure the company is able to meet up with the demands of the season.
+  
+*  **SoDo|Industrial District** is the most expensive area with an average AIRBNB at **$192** followed by **Magnolia** at **$178.9**  as a result these are good areas to startuo AIRBNB
 
 
