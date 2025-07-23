@@ -93,6 +93,6 @@ RECOMMENDAION AND CONCLUSION
   
 *  Looking at the monthly revenue trend,the revenue gradually increases progressively as the year begins and peaks from August down the year at December this can be    likely be due to the holiday season , thus adequate preparation needs to be made to ensure the company is able to meet up with the demands of the season.
   
-*  **SoDo|Industrial District** is the most expensive area with an average AIRBNB at **$192** followed by **Magnolia** at **$178.9**  as a result these are good areas to startuo AIRBNB
+*  **SoDo|Industrial District** is the most expensive area with an average AIRBNB at **$192** followed by **Magnolia** at **$178.9**  as a result these are good areas to startup AIRBNB.
 
 
