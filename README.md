@@ -1,25 +1,56 @@
-# AIRBNB SEATTLE
-# By Ofolebe Cyndi
+# Airbnb Seattle Market Analysis
 ---
 
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/airbnb.logo.png)
 
 ---
-INTRODUCTION
----
-Airbnb, Inc. is an abbreviation of its original name, "Air Bed and Breakfast". This is an American company operating an online marketplace for short-and-long-term homestays, experiences,vacations  and services in various countries and regions. It acts as a broker and charges a commission from each booking. Airbnb was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia. It has grown to become one of the larget tavel agencies globally.It creates a platform for hosts and guests to communicate and make payments securely.
+
+## Project Overview
+
+This project analyzes Airbnb Seattle listing data to explore pricing patterns, revenue trends, and factors influencing listing performance.
+
+Using Tableau, the analysis transforms Airbnb data into interactive visualizations that highlight differences in pricing, property types, locations, and revenue performance.
+
+The goal of this project is to demonstrate how data visualization can be used to uncover market insights and support data-driven decision-making.
 
 ---
-PROBLEM STATEMENT
----
-Using the data set I will be analysing , I will be gaining insight into the following questions:
-* What is the average listing price?
-* Total revenue by property type
-* Average price by property type
-* Which property type cost more based on location?
-* Monthly Revenue trend
+
+## Business Problem
+
+With thousands of Airbnb listings competing within the Seattle market, hosts and property managers need a better understanding of pricing patterns, revenue performance, and factors that influence listing value.
+
+Without clear insights into property type performance, location-based pricing, and revenue trends, it can be difficult to make informed decisions around listing strategy and market positioning.
 
 ---
+
+## Business Questions
+
+The analysis explores the following questions:
+
+- What is the average listing price across Airbnb properties in Seattle?
+- Which property types generate the highest total revenue?
+- How does average pricing differ across various property types?
+- How does property type pricing vary across different locations?
+- What monthly trends can be observed in Airbnb revenue performance?
+
+---
+
+## Dataset
+
+The analysis uses the Airbnb Seattle dataset, which contains information about Airbnb listings, including property details, pricing, availability, and location information.
+
+The dataset provides insights into listing characteristics and market patterns, allowing for analysis of pricing differences, revenue performance, and trends across Seattle's Airbnb market.
+
+---
+
+## Skills Demonstrated
+
+- Data cleaning and preparation for analytics
+- Data visualization and dashboard development using Tableau
+- Exploratory data analysis to identify pricing and revenue patterns
+- Business question framing and insight generation
+- Interactive dashboard design for communicating insights
+
 DATA MODELLING
 ---
 The dataset consist of 3 tables
