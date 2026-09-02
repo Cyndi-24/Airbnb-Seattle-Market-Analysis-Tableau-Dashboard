@@ -45,39 +45,43 @@ The dataset provides insights into listing characteristics and market patterns, 
 
 ## Skills Demonstrated
 
-- Data cleaning and preparation for analytics
-- Data visualization and dashboard development using Tableau
-- Exploratory data analysis to identify pricing and revenue patterns
-- Business question framing and insight generation
-- Interactive dashboard design for communicating insights
+- Data cleaning and preparation: Removed duplicates and blanks, standardized date and currency formats, handled missing values required for analysis, and corrected data inconsistencies before importing the dataset into Tableau.
 
-DATA MODELLING
+- Dashboard development and visualization: Selected appropriate charts, including bar charts, line charts, and maps, to communicate insights effectively.
+
+- Interactive reporting: Created dashboards with filters and interactive elements to allow users to explore different aspects of the data.
+
+- Data analysis using calculated fields: Applied calculations such as sum, average, and count to create key performance indicators (KPIs).
+
 ---
+## DATA MODELLING
+---
+
 The dataset consist of 3 tables
 
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/data_modelling.png)
 
 ---
-SKILLS DEMONSTRATED
----
-* Data cleaning and Importation; The data was cleaned via removal of duplicates and blanks,standardization of dates and currency,filling of missing values necessary for the    analyis,wrong spelling were corrrected across the data set using find and replace, afterwards the data set was imported to Tableau.
-* Chart Creation
-  - knowing which chart would better represent the dataset is a very crucial skill,different charts ranging from line      chart,bar cart,maps
-    were used to communicate data insights through visual representation
-  - Creation of interactive charts such as slicers and filters which further enhances visual representation 
-  - Ability to select data ranges relevant for each chart creation
-* Use of calculated fields such as sum ,average and count to determine the KPi
+
+## ANALYSIS AND VISUALIZATION
 
 ---
-ANALYSIS AND VISUALIZATION
----
-This analysis has one dashboard
+
+The dashboard presents key Airbnb Seattle metrics through interactive Tableau visualizations which allows users to explore different aspects of Airbnb listing performance and identify patterns within the dataset.
+
 
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/AirBNB_Analysis.png)
 
-# KEY PERFORMANCE INDICATORS
-  
-  This was depicted using total listing,total bookings and average booking price
+
+## Market Overview Metrics
+
+The dashboard begins with a summary of key Airbnb market metrics, providing context on listing volume, booking activity, and average pricing across Seattle.
+
+| Metric | Value |
+| --- | --- |
+| Average Booking Price | $126 |
+| Total Bookings | 1,393,570 |
+| Total Listings | 3,159 |
 
   
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/KPI.png)
