@@ -80,13 +80,10 @@ The dashboard begins with a summary of key Airbnb market metrics, providing cont
 | Metric | Value |
 | --- | --- |
 | Average Booking Price | $126 |
-| Total Bookings | 1,393,570 |
+| Total Records Analysed | 1,393,570 |
 | Total Listings | 3,159 |
 
-  
-![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/KPI.png)
 
----
 # Which property type generated the most revenue?
 
 ![]( https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/revenue_by_property_type.png)
