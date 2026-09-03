@@ -84,47 +84,48 @@ The dashboard begins with a summary of key Airbnb market metrics, providing cont
 | Total Listings | 3,159 |
 
 
-# Which property type generated the most revenue?
+### Which property types generate the highest total revenue?
 
 ![]( https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/revenue_by_property_type.png)
 
 
-INSIGHT: House generated the most revenue 
+**Insight:** Houses generated the highest total revenue among all property types, contributing approximately $50.45K. This indicates that houses were the strongest revenue-performing property category within the dataset.
 
 ---
-# What is the average price by property type?
+### How does average pricing differ across various property types?
 
-![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/Average_price_by_property.png)
+![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/Average_price_by_property.png
 
-INSIGHT: Based on average price by property type boats are the most expensive.
+**Insight:** Average prices varied significantly across property types. Some categories, such as boats, recorded higher average prices compared with other property types, showing that certain listings commanded premium pricing within the market.
 
 ---
-# What is the monthly revenue trend? 
+
+### What monthly trends can be observed in Airbnb revenue performance?
+
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/monthly_revenue.png)
 
-INSIGHT: The revenue increases down the year and peaks at the end of the year.
-
+**Insight:** Monthly revenue performance showed variations throughout the year, with some periods towards the later part of the year generating stronger revenue than others. These patterns highlight the presence of seasonal changes in Airbnb market performance.
 ---
 
-# Which location does AIRBNB cost more?
+### How does property type pricing vary across different locations?
+
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/price_by_location.png)
 
-INSIGHT: AirBNB cost more at SoDo|Industrial District with an average price of $192 and a total of 4 listings followed by Magnolia
+**Insight:** The analysis revealed that Airbnb pricing varied significantly across Seattle neighbourhoods. SoDo/Industrial District recorded the highest average listing price at approximately $192, followed by Magnolia at about $178.90. These locations represent higher-priced markets within Seattle, suggesting that neighbourhood characteristics influence Airbnb pricing.
 
 ---
-RECOMMENDAION AND CONCLUSION
----
+## Recommendations and Conclusion
 
-* There are **3159** listings in Seattle and  over **1,393,570** total bookings in the year 2016.To further increase these      bookings the following can be done: 
- - Prompt response to enquires and provision of clear and understable instructions as regards bookings and amenities
- -  Use of dynamic pricing which encourages adjustment of prices based on demands,events and sasonality
- - Setting up high quality photos,detailed and accurate description on the website can also help to attract customers and aid them in making better decision 
- - Inspections can be carried out on the various properties  from time to time to ensure saftey,functional amenities and proper management of facilities.
+Based on the analysis of Airbnb Seattle listing performance, the following recommendations can be considered:
 
-*  Based on property type **House** and **Apartments** are the most profitable thus further investments can be made on them to generate more revenue.
-  
-*  Looking at the monthly revenue trend,the revenue gradually increases progressively as the year begins and peaks from August down the year at December this can be    likely be due to the holiday season , thus adequate preparation needs to be made to ensure the company is able to meet up with the demands of the season.
-  
-*  **SoDo|Industrial District** is the most expensive area with an average AIRBNB at **$192** followed by **Magnolia** at **$178.9**  as a result these are good areas to startup AIRBNB.
+- Prioritize investment in high-performing property categories, particularly houses and apartments, as they demonstrated stronger revenue contribution within the analyzed dataset.
 
+- Consider location-based pricing strategies, as neighbourhoods such as SoDo/Industrial District and Magnolia recorded higher average listing prices. These areas may present opportunities for premium Airbnb offerings, although further analysis of demand, occupancy, competition, and operating costs would be needed before making investment decisions.
 
+- Use seasonal revenue patterns to support pricing strategies and prepare for periods of stronger market performance throughout the year.
+
+- Continue monitoring property type and location performance to identify opportunities for improving revenue generation and market positioning.
+
+- Improve the overall guest experience through prompt communication, accurate listing information, quality property images, and regular property maintenance to strengthen listing competitiveness.
+
+Overall, the analysis shows that property type, location, and seasonal patterns are key factors influencing Airbnb performance in Seattle.
