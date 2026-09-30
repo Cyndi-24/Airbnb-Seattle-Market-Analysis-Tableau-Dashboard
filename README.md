@@ -42,18 +42,6 @@ The analysis uses the Airbnb Seattle dataset, which contains information about A
 The dataset provides insights into listing characteristics and market patterns, allowing for analysis of pricing differences, revenue performance, and trends across Seattle's Airbnb market.
 
 ---
-
-## Skills Demonstrated
-
-- Data cleaning and preparation: Removed duplicates and blanks, standardized date and currency formats, handled missing values required for analysis, and corrected data inconsistencies before importing the dataset into Tableau.
-
-- Dashboard development and visualization: Selected appropriate charts, including bar charts, line charts, and maps, to communicate insights effectively.
-
-- Interactive reporting: Created dashboards with filters and interactive elements to allow users to explore different aspects of the data.
-
-- Data analysis using calculated fields: Applied calculations such as sum, average, and count to create key performance indicators (KPIs).
-
----
 ## DATA MODELLING
 ---
 
