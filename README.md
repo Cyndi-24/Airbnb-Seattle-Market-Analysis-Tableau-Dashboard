@@ -93,6 +93,7 @@ The dashboard begins with a summary of key Airbnb market metrics, providing cont
 ![](https://github.com/Cyndi-24/AIRBNB-SEATTLE/blob/main/Airbnb%20Tableau%20Project/AirBnB%20_Images/monthly_revenue.png)
 
 **Insight:** Monthly revenue performance showed variations throughout the year, with some periods towards the later part of the year generating stronger revenue than others. These patterns highlight the presence of seasonal changes in Airbnb market performance.
+
 ---
 
 ### How does property type pricing vary across different locations?
